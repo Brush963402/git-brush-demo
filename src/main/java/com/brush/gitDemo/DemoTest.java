@@ -9,5 +9,7 @@ public class DemoTest {
 
         System.out.println("master merge");
 
+        System.out.println("merge hot-flix");
+
     }
 }
