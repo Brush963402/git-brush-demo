@@ -7,5 +7,7 @@ public class DemoTest {
 
         System.out.println("hot-filx brance");
 
+        System.out.println("master merge");
+
     }
 }
